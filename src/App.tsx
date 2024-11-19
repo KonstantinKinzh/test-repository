@@ -3,11 +3,11 @@ import { Layout } from './components/Layout';
 import './App.css';
 
 function App() {
-	return (
-		<>
-			<Layout />
-		</>
-	);
+  return (
+    <>
+			
+    </>
+  );
 };
 
 export default App;
